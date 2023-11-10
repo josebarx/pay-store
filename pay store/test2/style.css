@@ -1,0 +1,35 @@
+.boton2{
+    display: block;
+    width: fit-content;
+    margin:20px auto;
+    font-size: 20px;
+    border: none;
+    background-color: orangered;
+    color:whitesmoke;
+    padding: 7px 25px;
+    border-radius: 30px;
+    cursor: pointer;
+    transform: translate(-450%, -30%);
+
+}
+.boto1{
+    display: block;
+    width: fit-content;
+    margin:20px auto;
+    font-size: 20px;
+    border: none;
+    background-color: orangered;
+    color:whitesmoke;
+    padding: 7px 25px;
+    border-radius: 30px;
+    cursor: pointer;
+    transform: translate(490%, -180%);
+}
+
+.titu{
+    transform: translate(0%, -200%);
+}
+
+.fot{
+    transform: translate(0%, -10%);
+}
